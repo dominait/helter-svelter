@@ -1,10 +1,10 @@
 # Svelte Example
 
-This directory is a brief example of a [Svelte](https://svelte.dev/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+Helter Svelter is an example of using [Svelte](https://svelte.dev/) app with [Vercel Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction)  
 
-## Deploy Your Own
+## Deploymet
 
-Deploy your own Svelte project, along with Serverless Functions, with Vercel.
+To maximize performance the project is deployed to Vercel so that you can use Serverless Functions, with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/svelte)
 
